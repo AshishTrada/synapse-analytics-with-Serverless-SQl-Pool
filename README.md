@@ -2,6 +2,7 @@
 
 This project implements an end-to-end data engineering pipeline using **Azure Synapse Analytics** to ingest, transform, and prepare data for analysis. The pipeline is designed to automate the movement and processing of CSV data stored in **Azure Data Lake Storage (ADLS)**, culminating in structured data layers (Bronze, Silver, and Gold) for reporting and analytics in Power BI.
 
+Data: https://drive.google.com/drive/folders/1FoeXckBXl_Q7MBq1VqzVX3loBukse5cL
 ---
 
 ## **Table of Contents**
@@ -20,8 +21,6 @@ The primary goal of this project is to build a robust data engineering pipeline 
 - Clean, transform, and enrich the data (Silver Layer).
 - Create summarized and analytical views (Gold Layer).
 - Expose the Gold Layer to **Power BI** for visualization and reporting.
-
-The dataset includes sales data split into multiple CSV files stored in a folder structure (`boston_data` with subfolders `2021-2024`).
 
 ---
 
