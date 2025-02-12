@@ -1,0 +1,1 @@
+# synapse-analytics-with-Serverless-SQl-Pool-
