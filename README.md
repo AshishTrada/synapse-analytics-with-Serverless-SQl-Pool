@@ -1,8 +1,9 @@
 # synapse-analytics-with-Serverless-SQl-Pool
 
-This project implements an end-to-end data engineering pipeline using **Azure Synapse Analytics** to ingest, transform, and prepare data for analysis. The pipeline is designed to automate the movement and processing of CSV data stored in **Azure Data Lake Storage (ADLS)**, culminating in structured data layers (Bronze, Silver, and Gold) for reporting and analytics in Power BI.
+This project implements an end-to-end data engineering pipeline using **Azure Synapse Analytics** to ingest, transform, and prepare data for analysis. The pipeline is designed to automate the movement and processing of CSV data stored in **Azure Data Lake Storage (ADLS)**, culminating in structured data layers (Bronze, Silver, and Gold) for reporting and analytics in Power BI. 
 
 Data: https://drive.google.com/drive/folders/1FoeXckBXl_Q7MBq1VqzVX3loBukse5cL
+
 ---
 
 ## **Table of Contents**
